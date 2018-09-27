@@ -4,6 +4,7 @@ title: CMPTGCS 1A / CMPSC 24A, Fall 2018
 
 # {{site.course}}, {{site.quarter}}
 
+
 <div id="info" data-role="collapsible" data-collapsed="false">
 <h2>Course Information</h2>
 <ul>

@@ -44,7 +44,7 @@ exclude:
    - _lab/keep
    - _exam/keep
    - _lectures/keep
-   - _info/keep        
+   - _info/keep   
 
 timezone: America/Los_Angeles
 
@@ -60,6 +60,18 @@ collections:
   labWIP:
     output: true
     permalink: /labWIP/:path/
+    last_before: false
+  cs16:
+    output: true
+    permalink: /cs16/:path/
+    last_before: false
+  cs24:
+    output: true
+    permalink: /cs24/:path/
+    last_before: false
+  cs32:
+    output: true
+    permalink: /cs32/:path/
     last_before: false
   exam:
     output: true
