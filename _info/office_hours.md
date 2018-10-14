@@ -8,5 +8,5 @@ ready: true
 
 # Instructor
 Richert Wang (HFH 1151)
-* TBD
+* Tues / Thurs 10 - 11am CCS 143
 

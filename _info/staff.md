@@ -8,6 +8,6 @@ ready: true
 
 ## Course instructor: Richert Wang
 * email: richert@ucsb.edu
-* Office hours time and location are available on [CMPSC 32 Office Hours](/info/office_hours/)
+* Office hours time and location are available on [CMPTGCS1A / CMPSC 24A Office Hours](/info/office_hours/)
 * Homepage: [https://www.cs.ucsb.edu/~richert/](https://www.cs.ucsb.edu/~richert)
 

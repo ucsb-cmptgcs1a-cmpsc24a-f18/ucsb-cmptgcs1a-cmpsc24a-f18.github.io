@@ -52,6 +52,11 @@ title: CMPTGCS 1A / CMPSC 24A, Fall 2018
 </div>
 
 <div data-role="collapsible" data-collapsed="false">
+<h2 id="homework">CS 24 Homeworks:</h2>
+{% include hwk_table.html %}
+</div>
+
+<div data-role="collapsible" data-collapsed="false">
 <h2 id="cs32">CS32 Labs:</h2>
 <table id="cs32_table" class="asn_table">
   {% include asn_table_header_row.html %}
